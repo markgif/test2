@@ -6,3 +6,5 @@ add line with sublime text
 
 brand new unconflicted line.
 
+line added in gifdev.
+
