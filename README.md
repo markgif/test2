@@ -6,3 +6,7 @@ add line with sublime text
 
 brand new unconflicted line.
 
+
+
+new line added in master.
+
