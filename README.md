@@ -1,3 +1,6 @@
+---
+name: my file
+---
 new line to cherry-pick from branch2.
 
 new line at top - hotfix
